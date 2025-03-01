@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: DiamondPriceprediction
-Version: 0.0.1
-Author: Maitry Patel
-Author-email: maitrypatel345@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
