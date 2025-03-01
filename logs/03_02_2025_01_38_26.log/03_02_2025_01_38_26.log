@@ -1,0 +1,4 @@
+[2025-03-02 01:38:28,087] 24 root - INFO - Data Ingestion Started
+[2025-03-02 01:38:28,290] 28 root - INFO - Data read successfully
+[2025-03-02 01:38:29,393] 34 root - INFO - Raw data is created successfully
+[2025-03-02 01:38:30,537] 45 root - INFO - Ingestion of data completed
