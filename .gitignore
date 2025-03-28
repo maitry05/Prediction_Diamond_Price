@@ -1,2 +1,23 @@
+# Virtual environment
 venv/
+
+# Logs
+logs/
+*.log
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints
+*.h5
+*.pt
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Egg files
 DiamondPriceprediction.egg-info/
